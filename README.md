@@ -1,1 +1,1 @@
-# Flight-Api-Application-Using-Postman-and-Strapi
+# Flight Api Application Using Postman and Strapi
